@@ -1,0 +1,134 @@
+{
+  "clima": [
+    {
+      "id": 1,
+      "mes": "Enero",
+      "horassolares": "6",
+      "diaslluviames": "7",
+      "precipitacionmmdd": "4",
+      "temperaturadelagua": "25",
+      "humedadrelativa": "70%",
+      "humedadaire": "20g/m3"
+    },
+    {
+      "id": 2,
+      "mes": "Febrero",
+      "horassolares": "6",
+      "diaslluviames": "7",
+      "precipitacionmmdd": "4",
+      "temperaturadelagua": "25",
+      "humedadrelativa": "70%",
+      "humedadaire": "19g/m3"
+    },
+    {
+      "id": 3,
+      "mes": "Marzo",
+      "horassolares": "5",
+      "diaslluviames": "11",
+      "precipitacionmmdd": "5.5",
+      "temperaturadelagua": "25",
+      "humedadrelativa": "70%",
+      "humedadaire": "20g/m3"
+    },
+    {
+      "id": 4,
+      "mes": "Abril",
+      "horassolares": "5",
+      "diaslluviames": "12",
+      "precipitacionmmdd": "8",
+      "temperaturadelagua": "25",
+      "humedadrelativa": "75%",
+      "humedadaire": "20g/m3"
+    },
+    {
+      "id": 5,
+      "mes": "Mayo",
+      "horassolares": "5",
+      "diaslluviames": "14",
+      "precipitacionmmdd": "9",
+      "temperaturadelagua": "25",
+      "humedadrelativa": "75%",
+      "humedadaire": "21g/m3"
+    },
+    {
+      "id": 6,
+      "mes": "Junia",
+      "horassolares": "5.5",
+      "diaslluviames": "16",
+      "precipitacionmmdd": "8",
+      "temperaturadelagua": "25",
+      "humedadrelativa": "75%",
+      "humedadaire": "20g/m3"
+    },
+    {
+      "id": 7,
+      "mes": "Julio",
+      "horassolares": "5",
+      "diaslluviames": "14",
+      "precipitacionmmdd": "7",
+      "temperaturadelagua": "25",
+      "humedadrelativa": "75%",
+      "humedadaire": "20g/m3"
+    },
+    {
+      "id": 8,
+      "mes": "Agosto",
+      "horassolares": "5",
+      "diaslluviames": "12",
+      "precipitacionmmdd": "6.5",
+      "temperaturadelagua": "25",
+      "humedadrelativa": "75%",
+      "humedadaire": "20g/m3"
+    },
+    {
+      "id": 9,
+      "mes": "Septiembre",
+      "horassolares": "6",
+      "diaslluviames": "11",
+      "precipitacionmmdd": "7",
+      "temperaturadelagua": "25",
+      "humedadrelativa": "75%",
+      "humedadaire": "19g/m3"
+    },
+    {
+      "id": 10,
+      "mes": "Octubre",
+      "horassolares": "6",
+      "diaslluviames": "15",
+      "precipitacionmmdd": "8",
+      "temperaturadelagua": "25",
+      "humedadrelativa": "80%",
+      "humedadaire": "20g/m3"
+    },
+    {
+      "id": 11,
+      "mes": "Noviembre",
+      "horassolares": "6",
+      "diaslluviames": "14",
+      "precipitacionmmdd": "8",
+      "temperaturadelagua": "25",
+      "humedadrelativa": "80%",
+      "humedadaire": "20g/m3"
+    },
+    {
+      "id": 12,
+      "mes": "Diciembre",
+      "horassolares": "6",
+      "diaslluviames": "10",
+      "precipitacionmmdd": "5",
+      "temperaturadelagua": "25",
+      "humedadrelativa": "80%",
+      "humedadaire": "19g/m3"
+    },
+    {
+      "mes": "jupiter",
+      "horassolares": "5",
+      "diaslluviames": "5",
+      "precipitacionmmdd": "gthgfhghngn",
+      "temperaturadelagua": "ghnghnhn",
+      "humedadrelativa": "gnghngh",
+      "humedadaire": "gghgh",
+      "id": 13
+    }
+  ]
+}
